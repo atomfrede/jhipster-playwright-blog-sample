@@ -24,5 +24,6 @@
     "strictTemplates": true,
     "strictInputAccessModifiers": true,
     "preserveWhitespaces": true
-  }
+  },
+  "exclude": ["src/test/javascript/cypress"]
 }

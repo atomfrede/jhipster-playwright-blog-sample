@@ -20,7 +20,7 @@
     "prodDatabaseType": "postgresql",
     "searchEngine": false,
     "skipClient": false,
-    "testFrameworks": [],
+    "testFrameworks": ["cypress"],
     "websocket": false,
     "jhipsterVersion": "7.0.0-beta.1",
     "skipServer": false,
