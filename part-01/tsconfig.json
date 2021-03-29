@@ -18,7 +18,8 @@
     "downlevelIteration": true,
     "declaration": false,
     "forceConsistentCasingInFileNames": true,
-    "types": ["jest", "jest-playwright-preset", "expect-playwright"]
+    "types": ["jest", "jest-playwright-preset", "expect-playwright"],
+    "esModuleInterop": true
   },
   "angularCompilerOptions": {
     "strictInjectionParameters": true,
